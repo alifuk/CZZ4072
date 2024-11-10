@@ -1,12 +1,13 @@
 # CZZ4072
 
 Nyní vyvíjíme
-## Nadpis 1!!!!!
+## Nadpis 33!!!!!
+## Nadpis 222!!!!!   
 
 ### Lineární regrese
 
 ## Nadpis 2
 
-- krásný popis 
+- krásný popis Úprava z githubu
 
 ## Nadpis 3
